@@ -1,5 +1,5 @@
 # oci-nigthly-stop
-Stop your OCI instances at night.  And change the lisence models of your Autonomous Databases to BYOL.
+Stop your OCI instances at night.
 
 # Supported instances for stop
 - Compute Instances
